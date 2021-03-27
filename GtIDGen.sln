@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtIDGen", "GtIDGen\GtIDGen.csproj", "{1C128C5F-BD18-4B73-81DF-52B96973FAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C128C5F-BD18-4B73-81DF-52B96973FAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C128C5F-BD18-4B73-81DF-52B96973FAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C128C5F-BD18-4B73-81DF-52B96973FAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C128C5F-BD18-4B73-81DF-52B96973FAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCBC7E01-7F40-4F91-9456-54AD5DBA9FEE}
+	EndGlobalSection
+EndGlobal
